@@ -1,0 +1,1 @@
+del /q *.layout *.o *.res *.win
